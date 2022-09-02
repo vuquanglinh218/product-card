@@ -1,0 +1,39 @@
+product-1
+Samsung Galaxy Z Flip4 128G
+$1025.6
+
+product-2
+Samsung Galaxy Z Fold4
+$1751.31
+
+product-3
+Samsung Galaxy S20 FE 256GB (Fan Edition)
+$469.86
+
+product-4
+Samsung Galaxy A32
+$256.29
+
+product-5
+Samsung Galaxy A33 (5G)
+$260
+
+product-6
+Samsung Galaxy S21 Ultra 5G
+$854.3
+
+product-7
+Samsung Galaxy S22 (8GB - 128GB)
+$683.44
+
+product-8
+Samsung Galaxy S22 Plus (8GB - 128GB)
+$854.3
+
+product-9
+Samsung Galaxy S22 Ultra (8GB - 128GB)
+$1067.87
+
+product-10
+Samsung Galaxy Note 20 Ultra 5G
+$811
